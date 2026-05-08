@@ -260,7 +260,7 @@
 - EleChico CCST6001 thermostat
 - Elitech ECS-974T refrigeration thermostat
 - Emmeti Zona thermostat
-- Engo E901WiFi thermostat
+- Engo E901WiFi and EFAN230 thermostats
 - Essentials Wall thermostat
 - ETOP-FCU thermostat (Jaga JRT-100TW)
 - ETOP-HP thermostat (CH7100)
