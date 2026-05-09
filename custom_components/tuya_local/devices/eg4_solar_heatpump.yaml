@@ -108,9 +108,6 @@ entities:
       - id: 104
         type: boolean
         name: unknown_104
-      - id: 105
-        type: boolean
-        name: unknown_105
       - id: 106
         type: integer
         name: unknown_106
@@ -190,3 +187,10 @@ entities:
       - id: 101
         type: boolean
         name: switch
+  - entity: switch
+    name: Vertical Louvers
+    category: config
+    dps:
+      - id: 105
+        type: boolean
+        name:  switch
