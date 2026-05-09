@@ -120,15 +120,6 @@ entities:
       - id: 109
         type: integer
         name: unknown_109
-      - id: 110
-        type: integer
-        name: unknown_110
-      - id: 111
-        type: integer
-        name: unknown_111
-      - id: 112
-        type: boolean
-        name: unknown_112
       - id: 119
         type: integer
         name: unknown_119
