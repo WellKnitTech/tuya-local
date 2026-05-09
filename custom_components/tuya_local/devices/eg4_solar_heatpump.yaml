@@ -194,3 +194,37 @@ entities:
       - id: 105
         type: boolean
         name: switch
+  - entity: switch
+    name: Vertical Louvers
+    icon: "mdi:air-conditioner"
+    category: config
+    dps:
+      - id: 105
+        type: boolean
+        name:  switch
+  - entity: sensor
+    name: Total Power Consumption
+    class: total_increasing
+    category: diagnostic
+    dps:
+      - id: 110
+        type: integer
+        name: sensor
+        unit: Wh
+  - entity: sensor
+    name: AC Input Watts
+    class: measurement
+    category: diagnostic
+    dps:
+      - id: 111
+        type: integer
+        name: sensor
+        unit: W
+  - entity: switch
+    name: AC Limiter
+    icon: "mdi:flash-alert"
+    category: config
+    dps:
+      - id: 112
+        type: boolean
+        name: switch
