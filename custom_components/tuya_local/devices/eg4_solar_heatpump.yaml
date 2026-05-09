@@ -195,7 +195,7 @@ entities:
         name:  switch
   - entity: sensor
     name: Total Power Consumption
-    class: total_increasing
+    class: energy
     category: diagnostic
     dps:
       - id: 110
@@ -204,7 +204,7 @@ entities:
         unit: Wh
   - entity: sensor
     name: AC Input Watts
-    class: measurement
+    class: power
     category: diagnostic
     dps:
       - id: 111
